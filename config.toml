@@ -1,0 +1,6 @@
+baseURL = "https://carneiro.blog.br/um/"
+languageCode = "pt-br"
+title = "Um"
+theme = 'noteworthy'
+[params]
+    DateForm = "2006-01-02 15:04"

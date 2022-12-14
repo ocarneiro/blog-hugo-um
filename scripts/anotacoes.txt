@@ -1,0 +1,5 @@
+Mexi:
+
+/home/otavio/SynologyProjetos/Blog_Hugo_Um/um/themes/noteworthy/layouts/_default/single.html
+/home/otavio/SynologyProjetos/Blog_Hugo_Um/um/themes/noteworthy/layouts/index.html
+(comentei tags com Tatau aqui)
